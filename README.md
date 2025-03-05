@@ -5,7 +5,7 @@ I'm Matt! Welcome to my profile where I'm exploring new projects and open source
 - 🚀 Currently working on **exciting new iOS & macOS projects**
 - 💡 Passionate about A/B testing, app growth, and indie development
 - 🌱 Always learning and experimenting with new ideas
-- 📫 Reach me on [Twitter](https://twitter.com/MattHeaney) or [LinkedIn](https://linkedin.com/in/MattHeaney23)
+- 📫 Reach me on [X](https://x.com/MattHeaney23) or [LinkedIn](https://linkedin.com/in/MattHeaney23)
 
 ---
 
