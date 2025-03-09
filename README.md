@@ -9,5 +9,13 @@ I'm Matt! Welcome to my profile where I'm exploring new projects and open source
 
 ---
 
+Let's talk about iOS dev! Here's some of conference and meetup talks:
+
+[Hack Reality - An Introduction To Making Apps for Apple Vision Pro - Leeds Mobile](https://www.youtube.com/watch?v=ScLOwjCoxIk&t=2258s)
+[AB Test Bloody Everything - SwiftCraft 2024](https://www.youtube.com/watch?v=eNfVwnQmdxw&t=606s)
+[Green Ticks - An Introduction to Swift Testing - iOS Dev Happy Hour](https://www.youtube.com/watch?v=OSH5JNpdPjQ&t=750s)
+
+---
+
 ### 📊 GitHub Stats
 ![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattHeaney23&show_icons=true&theme=tokyonight)
