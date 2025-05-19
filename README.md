@@ -25,7 +25,7 @@ I'm Matt! Welcome to my profile where I'm exploring new projects and open source
 
 ### 📱 Serving Slices of Your App: The Underrated Potential of App Clips  
 - **Event:** Deep Dish Swift 2025  
-- 🎥 Watch on [YouTube](https://www.youtube.com/watch?v=8tKvsWrHy_4&t=7089s)
+- 🎥 Watch on [YouTube](https://www.youtube.com/watch?v=8tKvsWrHy_4&t=5030s)
 
 ---
 
