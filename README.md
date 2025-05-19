@@ -9,13 +9,35 @@ I'm Matt! Welcome to my profile where I'm exploring new projects and open source
 
 ---
 
-Let's talk about iOS dev! Here's some of conference and meetup talks:
+## 🎤 Conference and Meetup Talks
 
-🥽 [Hack Reality - An Introduction To Making Apps for Apple Vision Pro - Leeds Mobile](https://www.youtube.com/watch?v=ScLOwjCoxIk&t=2258s)
+### 🥽 Hack Reality - An Introduction To Making Apps for Apple Vision Pro  
+- **Event:** Leeds Mobile  
+- 🎥 Watch on [YouTube](https://www.youtube.com/watch?v=ScLOwjCoxIk)
 
-🔴🟢 [AB Test Bloody Everything - SwiftCraft 2024](https://www.youtube.com/watch?v=eNfVwnQmdxw&t=606s)
+### 🔴🟢 AB Test Bloody Everything  
+- **Event:** SwiftCraft 2024  
+- 🎥 Watch on [YouTube](https://www.youtube.com/watch?v=eNfVwnQmdxw)
 
-✅ [Green Ticks - An Introduction to Swift Testing - iOS Dev Happy Hour](https://www.youtube.com/watch?v=OSH5JNpdPjQ&t=750s)
+### ✅ Green Ticks - An Introduction to Swift Testing  
+- **Event:** iOS Dev Happy Hour  
+- 🎥 Watch on [YouTube](https://www.youtube.com/watch?v=OSH5JNpdPjQ)
+
+### 📱 Serving Slices of Your App: The Underrated Potential of App Clips  
+- **Event:** Deep Dish Swift 2025  
+- 🎥 Watch on [YouTube](https://www.youtube.com/watch?v=8tKvsWrHy_4&t=7089s)
+
+---
+
+## 🎧 Podcast Appearances
+
+### 🎙️ Slices - The Deep Dish Swift Podcast  
+- **Episode:** Series 3, Episode 7  
+- 🎧 Listen on [Spotify](https://open.spotify.com/episode/1dWpsalmw7ok1M8ezs4fUO?si=Rnc4NcFDQ8Cj3U819Ll90Q) | [Apple Podcasts](https://podcasts.apple.com/gb/podcast/slices-the-deep-dish-swift-podcast/id1670026071?i=1000700627287)
+
+### 🎙️ The Kodeco Podcast  
+- **Episode:** All The Conferences  
+- 🎧 Listen on [Spotify](https://open.spotify.com/episode/5XWVT4T5MY1UcnevQc3LXr?si=eEXu2gvJS5eVqN_tvk6deg) | [Apple Podcasts](https://podcasts.apple.com/gb/podcast/all-the-conferences/id773910890?i=1000704757557)
 
 ---
 
